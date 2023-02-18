@@ -1,0 +1,38 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-image:url("./images/blackjackTable.jpg");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1{
+    color: rgb(58, 22, 13);
+    font-size: 48px;
+
+}
+p{
+    color: blue;
+    font-size: x-large;
+}
+
+#message-element{
+    font-style: italic;
+    font-size: xx-large;
+    color: rgb(42, 30, 208);
+}
+
+button{
+    color: rgb(13, 15, 15);
+    width: 150px;
+    background: rgb(95, 210, 135);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-size: 24px;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
